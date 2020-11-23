@@ -3,5 +3,11 @@ Beginner's guide to GitHub
 
 Hi Fellow Coder!
 
-This is my first Git-experience.
-This is a nice CodeEditor
+I've just started using GitHub. Here are all of my HackerRank Submissions.
+Please Go through the codes you think might be interesting.
+Do post your suggestions, I would love to know how to make them more efficient
+and readabke.
+
+Cheers!
+
+
